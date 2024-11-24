@@ -1,0 +1,53 @@
+.main-container{
+  width: 567px;
+  height: fit-content;
+  margin-left: 75px;
+  margin-top: 10px;
+}
+
+h2{
+  color: rgb(36, 36, 206);
+}
+.add-panel{
+  width: 330px;
+  height: fit-content;
+  border: 1px solid;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: white;
+}
+.searchinput{
+  margin-top: 15px;
+  border:1px solid;
+  border-radius: 5px;
+  height: 25px;
+  width: 210px;
+  background-color: rgb(247, 251, 255);
+}
+.addpaneldiv{
+  margin-left: 5px;
+}
+.addpanelinput{
+  border:1px solid;
+  border-radius: 5px;
+  height: 25px;
+  width: 300px;
+  background-color: rgb(247, 251, 255);
+}
+.addpanelinput.descripton{
+  height: 50px;
+}
+.Btn{
+  border:1px solid;
+  border-radius: 5px;
+  font-size: 11px;
+  margin: 5px;
+}
+.table{
+  margin: 5px;
+  width: 585px;
+  height: fit-content;
+  border: 2px solid;
+  border-collapse: collapse;
+  margin-left: 75px;
+}
